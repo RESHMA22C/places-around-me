@@ -5,7 +5,8 @@ To develop a website to display details about the places around my house.
 ## Design Steps:
 
 ### Step 1:
-write the code appropriately
+write the code appropriately.
+
 ### Step 2:
 run the program
 ## Code:
