@@ -9,6 +9,7 @@ write the code appropriately
 ### Step 2:
 run the program
 ## Code:
+```
 <!DOCTYPE html>
 <html>
  <head>
@@ -109,7 +110,7 @@ tadumur
  </h1>
  </body>
 </html>
-
+```
 
 
 ## Output:
